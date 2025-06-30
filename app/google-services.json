@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956590545585",
+    "project_id": "miappdenotificaciones-550a8",
+    "storage_bucket": "miappdenotificaciones-550a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956590545585:android:9535f6844608e232e16090",
+        "android_client_info": {
+          "package_name": "com.example.miappdenotificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6AmABG8SmSiK1HBjxTfMKuj1wpW_tf8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
